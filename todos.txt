@@ -1,3 +1,5 @@
 Machine Learning
 Data Structure and Algorithms
 Python Backend Developer
+Data Scientist
+Don't Give Up
