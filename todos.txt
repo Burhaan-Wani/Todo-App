@@ -1,3 +1,1 @@
-machine learning
-frontend Developer
-Python Backend Developer
+Python DeveloperFrontend Developer
