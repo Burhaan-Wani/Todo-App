@@ -1,7 +1,3 @@
-Machine Learning
-Data Structure and Algorithms
-Python Backend Developer
-DevOps
-frontend developer
-backend developer
+machine learning
+frontend Developer
 Python Backend Developer
